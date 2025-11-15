@@ -1,0 +1,8 @@
+traffic_signs/data/
+traffic_signs/data/Train/
+traffic_signs/data/Meta/
+*.ppm
+*.png
+*.jpg
+*.jpeg
+*.csv
