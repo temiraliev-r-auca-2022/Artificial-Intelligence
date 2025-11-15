@@ -14,6 +14,7 @@ Right now it can do basic needs, check images, differenciate 43 types of road si
 Dataset
 From the dataset I only need the Train folder:
 Train/0, Train/1, ..., Train/42 subfolders with images for each class.
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?resource=download
 
 In my project, the folder structure is:
 Artificial-Intelligence/

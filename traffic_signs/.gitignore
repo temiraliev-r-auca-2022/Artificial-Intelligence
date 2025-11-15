@@ -6,3 +6,5 @@ traffic_signs/data/Meta/
 *.jpg
 *.jpeg
 *.csv
+.~lock*
+*.ods#
