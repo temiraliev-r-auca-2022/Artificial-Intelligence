@@ -7,6 +7,16 @@ to learn how to work with image datasets in Python.
 to train a basic CNN model that can classify traffic signs into 43 classes.
 to understand how to evaluate a classification model (accuracy, F1 score, confusion matrix).
 
+Launch instructions:
+Use terminal
+python -m venv venv
+venv\Scripts\activate
+cd traffic_signs
+pip install -r requirements.txt
+Need to install dataset https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?resource=download here Artificial-Intelligence/traffic_signs/data/Train
+python traffic_sign.py
+
+
 I tried to do my best with my knowledge of python language, I used some AI to clarify some places for me and I tried to see another project about this project.
 Link for the video: https://www.youtube.com/watch?v=Vtc64rPHZ6I&t=2s
 Right now it can do basic needs, check images, differenciate 43 types of road signs, I will try to make more functionality
